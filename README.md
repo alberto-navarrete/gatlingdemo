@@ -1,2 +1,2 @@
-# Emuladores
-Clases que simulan servicios, sockets, productores JMS y otros recursos.
+# GATLING DEMO
+Demo de herramienta de pruebas de carga GATLING
